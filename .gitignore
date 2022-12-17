@@ -3,6 +3,7 @@
 /.vscode
 
 # Extras
+.DS_Store
 .env
 
 # Builds
